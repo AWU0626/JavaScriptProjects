@@ -1,0 +1,12 @@
+html {
+    /*Prevents padding from adding to extra dimension*/
+    box-sizing: border-box; 
+
+}
+
+body {
+    margin: 0;
+    /*vh = viewport-height = full-height of the entire window*/
+    min-height: 100vh;
+
+}
